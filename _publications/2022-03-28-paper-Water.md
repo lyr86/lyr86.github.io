@@ -10,5 +10,5 @@ citation: 'Lang Y., Jiang Z., & Wu X. (2022). "Investigating the Linkage between
 ---
 This paper is about investigating the relationship between extreme rainfall and climate variables.
 
-[Download paper here](http://zejiang-unsw.github.io/files/Jiang-Water-2022.pdf)
+[Download paper here](http://fmh1art.github.io/files/Jiang-Water-2022.pdf)
 
