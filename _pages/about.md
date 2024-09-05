@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ze Jiang"
+title: "Meihao Fan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
+This is Meihao Fan's personal homepage.
 
 ## A short introduction
-Dr Ze Jiang is an Australian Research Council (ARC) Early Career Industry Fellow, in partnership with WaterNSW, and a research associate at the University of New South Wales (UNSW) in Sydney, specializing in hydroclimate extremes modelling and forecasting. With a Ph.D. in Water Resources Engineering from UNSW, obtained in 2021, Dr. Jiang's doctoral research led to the development of a novel method called Wavelet System Prediction (WASP), capable of predicting sustained hydroclimate anomalies such as droughts or periods of flooding. Dr. Jiang's academic journey began with a bachelor's degree in Environmental Engineering from Hohai University in China in 2012, followed by a Joint M.Sc. program called "EuroAquae - HydroInformatics and Water Management", a partnership between five European universities. Before his doctoral studies, he gained valuable professional experience working for two years at the National University of Singapore (NUS). In 2023, Dr. Jiang further expanded his research horizons as a visiting research fellow at GFZ-Potsdam in Germany, supported by the Helmholtz Information & Data Science Academy (HIDA) grant.
+Meihao Fan is an Australian Research Council (ARC) Early Career Industry Fellow, in partnership with WaterNSW, and a research associate at the University of New South Wales (UNSW) in Sydney, specializing in hydroclimate extremes modelling and forecasting. With a Ph.D. in Water Resources Engineering from UNSW, obtained in 2021, Dr. Jiang's doctoral research led to the development of a novel method called Wavelet System Prediction (WASP), capable of predicting sustained hydroclimate anomalies such as droughts or periods of flooding. Dr. Jiang's academic journey began with a bachelor's degree in Environmental Engineering from Hohai University in China in 2012, followed by a Joint M.Sc. program called "EuroAquae - HydroInformatics and Water Management", a partnership between five European universities. Before his doctoral studies, he gained valuable professional experience working for two years at the National University of Singapore (NUS). In 2023, Dr. Jiang further expanded his research horizons as a visiting research fellow at GFZ-Potsdam in Germany, supported by the Helmholtz Information & Data Science Academy (HIDA) grant.
 
 <b>Research Highlights:</b>
 * Development of a [spectral transformation](https://doi.org/10.1029/2019WR026962) technique and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydroclimate extremes modelling and forecasting
@@ -36,4 +36,4 @@ Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-
 Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://fmh1art.github.io/cv/) or [downloaded CV](http://fmh1art.github.io/files/CV_ZeJIANG.pdf).
+More info about Meihao Fan can be found in [CV](https://fmh1art.github.io/cv/) or [downloaded CV](http://fmh1art.github.io/files/CV_ZeJIANG.pdf).
