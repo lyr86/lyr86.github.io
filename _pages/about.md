@@ -12,29 +12,23 @@ This is Meihao Fan's personal homepage.
 
 ## A short introduction
 
-Meihao Fan is a Phd student at Renmin University of China(RUC)
+I am Meihao Fan (范梅浩 in Chinese), currently a Phd student in the School of Information, Renmin University of China (RUC). I am a member of [DEKE Lab](http://deke.ruc.edu.cn/)  of Renmin University of China and under the supervision of Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/). Before that, I completed my B.S. in 2023 at the Chongqing Jiaotong University.
 
-<b>Research Highlights:</b>
-* Development of a [spectral transformation](https://doi.org/10.1029/2019WR026962) technique and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydroclimate extremes modelling and forecasting
-* An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) and [software](https://fmh1art.github.io/software/WQM/) for correcting bias in Numerical Weather Predictions in the time-frequency domain
-* Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+My research interest is on AI4DB, with a special focus on developing deep learning algorithms and systems for Data Preparation. Currently, I was working on enhancing the ability of table understanding for LLMs.
 
-## Selected Journal Publications
-Jiang, Z., Johnson, F., & Sharma, A. (2023). Do derived drought indices better characterize future drought change? *Earth's Future*, 11(7), e2022EF003350. [link](https://doi.org/10.1029/2022EF003350)
+## Selected Publications
 
-Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*, 151(8): 1909-1925. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
+- **Meihao Fan**, Xiaoyue Han, Ju Fan, Chengliang Chai, Nan Tang, Guoliang Li, Xiaoyong Du:
+  Cost-Effective In-Context Learning for Entity Resolution: A Design Space Exploration.
+  **ICDE** 2024. [[paper](/files/BatchER-ICDE2024.pdf)] [[slides](/files/BatchER-slides.pptx)]
 
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
+## Selected Awards
 
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
-
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
-
-## For more information
-More info about Meihao Fan can be found in [CV](https://fmh1art.github.io/cv/) or [downloaded CV](http://fmh1art.github.io/files/CV_ZeJIANG.pdf).
+- First-Class Academic Scholarship for Doctoral Students
+  Renmin University of China, 2023.11
+- National Scholarship
+  Ministry of Education, PRC, 2022.12
+- Academic Star
+  CQJTU, 2022.6
+- First Prize for The 12th National English Competition for College Students (Final)
+  TEFL China, 2020.12
