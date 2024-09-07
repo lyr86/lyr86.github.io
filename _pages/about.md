@@ -22,6 +22,8 @@ My research interest is on AI4DB, with a special focus on developing deep learni
   Cost-Effective In-Context Learning for Entity Resolution: A Design Space Exploration.
   **ICDE** 2024. [[paper](/files/BatchER-ICDE2024.pdf)] [[slides](/files/BatchER-slides.pptx)]
 
+More publications can be seen at [publications](https://fmh1art.github.io/publications/).
+
 ## Selected Awards
 
 - First-Class Academic Scholarship for Doctoral Students
