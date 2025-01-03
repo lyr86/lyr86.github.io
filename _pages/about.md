@@ -21,6 +21,9 @@ My research interest is on AI4DB, with a special focus on developing deep learni
 - **Meihao Fan**, Xiaoyue Han, Ju Fan, Chengliang Chai, Nan Tang, Guoliang Li, Xiaoyong Du:
   Cost-Effective In-Context Learning for Entity Resolution: A Design Space Exploration.
   **ICDE** 2024. [[paper](/files/BatchER-ICDE2024.pdf)] [[slides](/files/BatchER-slides.pptx)]
+- **Meihao Fan**, Ju Fan, Nan Tang, Lei Cao, Guoliang Li, Xiaoyong Du:
+  AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework.
+  Arxiv 2024. [[paper](/files/AutoPrep.pdf)] [[slides](/files/AutoPrep-slides.pptx)]
 
 More publications can be seen at [publications](https://fmh1art.github.io/publications/).
 
