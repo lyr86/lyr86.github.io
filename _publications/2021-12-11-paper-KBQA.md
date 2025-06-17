@@ -6,7 +6,7 @@ excerpt: 'This paper is about Question Answering over Knowledge Base.'
 date: 2021-12-11
 venue: 'Wireless Communications and Mobile Computing'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/8045535'
-citation: 'Fan M, Zhang L, Xiao S, et al. Few‐Shot Multihop Question Answering over Knowledge Base[J]. Wireless Communications and Mobile Computing, 2022, 2022(1): 8045535.'
+citation: 'Fan, Meihao, Lei Zhang, Siyao Xiao, and Yuru Liang. "Few-shot multi-hop question answering over knowledge base." arXiv preprint arXiv:2112.11909 (2021).'
 ---
 This paper is about Question Answering over Knowledge Base.
 

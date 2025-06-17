@@ -23,7 +23,7 @@ My research interest is on AI4DB, with a special focus on developing deep learni
   **ICDE** 2024. [[paper](/files/BatchER-ICDE2024.pdf)] [[slides](/files/BatchER-slides.pptx)]
 - **Meihao Fan**, Ju Fan, Nan Tang, Lei Cao, Guoliang Li, Xiaoyong Du:
   AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework.
-  Arxiv 2024. [[paper](/files/AutoPrep.pdf)] [[slides](/files/AutoPrep-slides.pptx)]
+  VLDB 2025. [[paper](/files/AutoPrep.pdf)] [[slides](/files/AutoPrep-slides.pptx)]
 - Yuxin Zhang, **Meihao Fan**, Ju Fan, Mingyang Yi, Yuyu Luo, Jian Tan, Guoliang Li:
   Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards.
   Arxiv 2025. [[paper](/files/RewardSQL.pdf)] [[slides](/files/RewardSQL-slides.pptx)]

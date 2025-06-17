@@ -6,7 +6,7 @@ excerpt: 'This paper is about LLM for Entity Resolution.'
 date: 2024-03-10
 venue: 'IEEE 40th International Conference on Data Engineering (ICDE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10597751'
-citation: 'Fan M, Han X, Fan J, et al. Cost-effective in-context learning for entity resolution: A design space exploration[C]//2024 IEEE 40th International Conference on Data Engineering (ICDE). IEEE, 2024: 3696-3709.'
+citation: 'Fan, Meihao, Xiaoyue Han, Ju Fan, Chengliang Chai, Nan Tang, Guoliang Li, and Xiaoyong Du. "Cost-effective in-context learning for entity resolution: A design space exploration." In 2024 IEEE 40th International Conference on Data Engineering (ICDE), pp. 3696-3709. IEEE, 2024.'
 ---
 This paper is about LLM for Entity Resolution.
 
