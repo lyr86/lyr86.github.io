@@ -1,5 +1,5 @@
 ---
-#!!!!!!!
+!!!!!!!
 title: "Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards"
 collection: publications
 permalink: /publication/2024-06-10-paper-RewardSQL
