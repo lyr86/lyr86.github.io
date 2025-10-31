@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-CHN"
-title                    : "Phd Student"
+title                    : "Postgraduate Student"
 title_separator          : "-"
-name                     : &name "Meihao Fan"
-description              : &description "Phd Student at RUC, Beijing, China"
-url                      : https://fmh1art.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuru Liang"
+description              : &description "Postgraduate Student at RUC, Beijing, China"
+url                      : https://lyr86.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fmh1art.github.io"
+repository               : "lyr86.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author: 
-  name             : "Meihao Fan"
+  name             : "Yuru Liang
   avatar           : "profile.jpg"
   bio              : "Phd Student at RUC"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BK058ZoAAAAJ&hl=zh-CN"
-  email            : "fmh1art@ruc.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Meihao-Fan"
+  email            : "yuru@ruc.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yuru-Liang"
   publons          : 
   uri              : 
   bitbucket        :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fmh1art"
+  github           : "lyr86"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "meihao-fan-832147327"
-  orcid            : "https://orcid.org/0000-0001-7597-5599"
+  linkedin         : "【!!!!!!!!】"
+  orcid            : "【!!!!!!!!】"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "fmh1art"
+  twitter          : "【!!!!!!!!】"
   vine             :
   weibo            :
   xing             :
