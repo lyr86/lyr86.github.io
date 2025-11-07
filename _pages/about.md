@@ -12,8 +12,7 @@ This is Yuru Liang's personal homepage.
 
 ## A short introduction
 
-!!!!!!!!!!
-I am Meihao Fan (范梅浩 in Chinese), currently a Phd student in the School of Information, Renmin University of China (RUC). I am a member of [DEKE Lab](http://deke.ruc.edu.cn/)  of Renmin University of China and under the supervision of Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/). Before that, I completed my B.S. in 2023 at the Chongqing Jiaotong University.
+I am Yuru Liang (范梅浩 in Chinese), currently a Phd student in the School of Information, Renmin University of China (RUC). I am a member of [DEKE Lab](http://deke.ruc.edu.cn/)  of Renmin University of China and under the supervision of Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/). Before that, I completed my B.S. in 2023 at the Chongqing Jiaotong University.
 
 My research interest is on AI4DB, with a special focus on developing deep learning algorithms and systems for Data Preparation. Currently, I was working on enhancing the ability of table understanding for LLMs.
 
