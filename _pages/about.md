@@ -18,7 +18,7 @@ My research interests lie at the intersection of AI, climate change, and society
 
 ## Selected Publications
 
-- Su, X., **Liang, Y.**, Hua, E., Chen, M., 2025. Evaluation of Yield Increases from Climate-Driven Shifts in Rice Cultivation Distribution in Northeast China (in Chinese). **Acta Ecologica Sinica** (PKU/CSCD, IF=6.0). [[paper](file:///Users/a1/Desktop/%E8%AF%84%E4%BC%B0%E4%B8%9C%E5%8C%97%E6%B0%B4%E7%A8%BB%E7%A7%8D%E6%A4%8D%E5%88%86%E5%B8%83%E8%BF%81%E7%A7%BB%E9%80%82%E5%BA%94%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E7%9A%84%E5%A2%9E%E4%BA%A7%E6%95%88%E6%9E%9C_%E8%8B%8F%E8%AF%A2.pdf)] 
+- Su, X., **Liang, Y.**, Hua, E., Chen, M., 2025. Evaluation of Yield Increases from Climate-Driven Shifts in Rice Cultivation Distribution in Northeast China (in Chinese). **Acta Ecologica Sinica** (PKU/CSCD, IF=6.0). [[paper](files/Evaluation of Yield Increases from Climate-Driven Shifts in Rice Cultivation Distribution in Northeast China (in Chinese).pdf)] 
 
 - Fan, M. , Xiao, S., **Liang, Y.**, Zhang, L., 2022. Few‐Shot Multihop Question Answering over Knowledge Base. **Wireless Communications and Mobile Computing** (SCIE, JCR Q3, IF=1.819) [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/8045535)] 
 
