@@ -12,38 +12,28 @@ This is Yuru Liang's personal homepage.
 
 ## A short introduction
 
-I am Yuru Liang (范梅浩 in Chinese), currently a Phd student in the School of Information, Renmin University of China (RUC). I am a member of [DEKE Lab](http://deke.ruc.edu.cn/)  of Renmin University of China and under the supervision of Prof. [Ju Fan](http://iir.ruc.edu.cn/~fanj/). Before that, I completed my B.S. in 2023 at the Chongqing Jiaotong University.
+I am Yuru Liang (梁钰茹 in Chinese), currently a Master's student at the School of Agricultural Economics and Rural Development, Renmin University of China. I am a member of the Department of Resources and Environment under the same school, supervised by Prof. [Minpeng Chen](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/5ab3449b4e764fc9a2beda18bd8b55f7.htm). Prior to this, I obtained my B.S. in 2023 at Chongqing Normal University.
 
-My research interest is on AI4DB, with a special focus on developing deep learning algorithms and systems for Data Preparation. Currently, I was working on enhancing the ability of table understanding for LLMs.
+My research interests lie at the intersection of AI, climate change, and society. Currently, my work focuses on the influencing mechanisms of forestry farmers' adoption of adaptive behaviors.
 
 ## Selected Publications
 
-!!!!!!!!!!
-- **Meihao Fan**, Xiaoyue Han, Ju Fan, Chengliang Chai, Nan Tang, Guoliang Li, Xiaoyong Du:
-  Cost-Effective In-Context Learning for Entity Resolution: A Design Space Exploration.
-  **ICDE** 2024. [[paper](/files/BatchER-ICDE2024.pdf)] [[slides](/files/BatchER-slides.pptx)]
-- **Meihao Fan**, Ju Fan, Nan Tang, Lei Cao, Guoliang Li, Xiaoyong Du:
-  AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework.
-  VLDB 2025. [[paper](/files/AutoPrep.pdf)] [[slides](/files/AutoPrep-slides.pptx)]
-- Yuxin Zhang, **Meihao Fan**, Ju Fan, Mingyang Yi, Yuyu Luo, Jian Tan, Guoliang Li:
-  Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards.
-  Arxiv 2025. [[paper](/files/RewardSQL.pdf)] [[slides](/files/RewardSQL-slides.pptx)]
+- Su, X., **Liang, Y.**, Hua, E., Chen, M., 2025. Evaluation of Yield Increases from Climate-Driven Shifts in Rice Cultivation Distribution in Northeast China (in Chinese). **Acta Ecologica Sinica** (PKU/CSCD, IF=6.0). [[paper](file:///Users/a1/Desktop/%E8%AF%84%E4%BC%B0%E4%B8%9C%E5%8C%97%E6%B0%B4%E7%A8%BB%E7%A7%8D%E6%A4%8D%E5%88%86%E5%B8%83%E8%BF%81%E7%A7%BB%E9%80%82%E5%BA%94%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E7%9A%84%E5%A2%9E%E4%BA%A7%E6%95%88%E6%9E%9C_%E8%8B%8F%E8%AF%A2.pdf)] 
 
-More publications can be seen at [publications](https://fmh1art.github.io/publications/).
+- Fan, M. , Xiao, S., **Liang, Y.**, Zhang, L., 2022. Few‐Shot Multihop Question Answering over Knowledge Base. **Wireless Communications and Mobile Computing** (SCIE, JCR Q3, IF=1.819) [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/8045535)] 
 
-## Company Internship
+More publications can be seen at [publications](https://lyr86.github.io/publications/).
 
-!!!!!!!!!!
-- Code Agent for Project-level NL2SQL, e.g., automatic ETL in real industrial scenario. ByteDance Infra System Lab. 2025.02 - ?
 
 ## Selected Awards
+- Merit Student
+  Renmin University of China, 2025.09
+- Scholarship for Intellectual Education 
+  Renmin University of China, 2025.10
+- National Inspirational Scholarship recipient 
+  Educational Department of Chongqing Province, 2022.12
+- Merit Student 
+  Educational Department of Chongqing Province, 2021.06
+- Outstanding Individual in Technological Innovation
+  Educational Department of Chongqing Province, 2022.06
 
-!!!!!!!!!!
-- First-Class Academic Scholarship for Doctoral Students
-  Renmin University of China, 2023.11
-- National Scholarship
-  Ministry of Education, PRC, 2022.12
-- Academic Star
-  CQJTU, 2022.6
-- First Prize for The 12th National English Competition for College Students (Final)
-  TEFL China, 2020.12
